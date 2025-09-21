@@ -5,4 +5,20 @@
 
 3. git config --global user.name  "username"
 3. git config --global user.email  "email@example.com"
-4. 
+
+
+// undo
+git restore [filename, example - git restore text.js]
+
+//file add
+git add . [filename, example - git add text.js or git add .]
+
+
+// git first step
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/USERNAME/REPO_NAME.git
+git branch -M main
+git push -u origin main
+
