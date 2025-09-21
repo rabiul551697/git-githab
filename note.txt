@@ -1,0 +1,8 @@
+//all information know command
+1. git --help
+
+2. git config --list
+
+3. git config --global user.name  "username"
+3. git config --global user.email  "email@example.com"
+4. 
